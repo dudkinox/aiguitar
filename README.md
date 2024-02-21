@@ -18,3 +18,7 @@ required
 
 # exit
 ```/q```
+
+
+# version 0.0.0.0.0.0.0.1
+- Support English only
