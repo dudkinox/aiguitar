@@ -1,7 +1,7 @@
 # ใช้ภาพพื้นฐานของ Python จาก Docker Hub
 FROM python:3.9
 
-WORKDIR /app
+WORKDIR /
 
 COPY requirements.txt .
 
