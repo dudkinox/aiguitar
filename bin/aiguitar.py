@@ -1,3 +1,5 @@
+#!/Library/Frameworks/Python.framework/Versions/3.10/bin/python3.10
+# -*- coding: utf-8 -*-
 import requests
 import json
 
