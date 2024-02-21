@@ -5,4 +5,4 @@
 ```docker-compose up -d```
 
 # run
-java aiguitar.java
+```java aiguitar.java```
