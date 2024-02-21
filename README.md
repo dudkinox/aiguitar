@@ -6,7 +6,7 @@ required
 - internet
 
 # ex.
-![alt text](https://github.com/[dudkinox]/[aiguitar]/blob/[main]/img/image.png?raw=true)
+<img src="https://github.com/dudkinox/aiguitar/blob/main/img/image.png?raw=true">
 
 
 # หลัง cloen project ให้ install aiguitar ด้วย
