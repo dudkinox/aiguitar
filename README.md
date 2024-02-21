@@ -5,6 +5,10 @@ required
 - docker compose
 - internet
 
+# ex.
+![Uploading image.png…]()
+
+
 # หลัง cloen project ให้ install aiguitar ด้วย
 
 ```docker-compose up -d```
