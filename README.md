@@ -12,3 +12,9 @@ required
 # run
 
 ```./aiguitar.sh```
+
+# all command
+```/help```
+
+# exit
+```/q```
