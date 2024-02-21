@@ -1,5 +1,12 @@
-FROM python:3.8
+# ใช้ภาพพื้นฐานของ Python จาก Docker Hub
+FROM python:3.9
+
 WORKDIR /app
-COPY . /app
-RUN pip install -r requirements.txt
+
+COPY requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
 CMD ["python", "./aiguitar.py"]
