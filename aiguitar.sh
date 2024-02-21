@@ -1,0 +1,1 @@
+docker exec -it aiguitar /bin/sh python3 aiguitar.py
