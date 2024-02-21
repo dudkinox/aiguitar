@@ -38,6 +38,6 @@ while(True):
     response = requests.request("POST", url, headers=headers, data=payload)
     responseText = response.text
     data = json.loads(responseText)
-    print("\033[34m" + data['candidates'][0]['content']['parts'][0]['text'] + "\033[0m")
+    print("\033[36m" + data['candidates'][0]['content']['parts'][0]['text'] + "\033[0m")
     
 print("bye.")
